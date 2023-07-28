@@ -1,10 +1,10 @@
 # [unrated] 문자열 출력하기 - 181952 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181952?language=java) 
 
 ### 성능 요약
 
-메모리: 4.02 MB, 시간: 2.17 ms
+메모리: 62.7 MB, 시간: 135.02 ms
 
 ### 구분
 
